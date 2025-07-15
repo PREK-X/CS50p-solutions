@@ -1,4 +1,4 @@
-CS50P - Harvard Python Programming Course
+# CS50P - Harvard Python Programming Course
 
 Welcome to my repository containing solutions and projects from CS50P: Introduction to Programming with Python by Harvard University.
 
