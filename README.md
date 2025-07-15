@@ -1,2 +1,2 @@
-# cs50p-solutions
-My solutions to Harvard’s CS50P (Introduction to Programming with Python)
+# cs50p Week1-solutions
+My solutions to Harvard’s CS50P Week1 Problems.
