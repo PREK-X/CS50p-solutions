@@ -1,1 +1,2 @@
+### EXCEPTIONS
 My Solutions to Harvards's CS50p Week 4 Problems.
