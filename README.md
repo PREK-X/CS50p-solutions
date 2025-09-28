@@ -1,2 +1,2 @@
-# CS50p Week1-Solutions
+### FUNCTIONS, VARIABLES
 My solutions to Harvard’s CS50P Week1 Problems.
