@@ -1,2 +1,2 @@
-### CONDITIONS
+### CONDITIONALS
 My Solutions to Harvards's CS50p Week 2 Problems.
