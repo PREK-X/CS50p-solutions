@@ -8,3 +8,5 @@ CS50P is Harvard's introductory course to programming with Python. It covers fou
 Instructor: David J. Malan
 
 Course Link: https://cs50.harvard.edu/python/
+
+Each branch contain the problem sets from week 1 to week 7
